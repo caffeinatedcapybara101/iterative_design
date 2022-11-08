@@ -135,7 +135,8 @@ ul li {
 
 /* Third Level */
 
-.list li {
+.list li,
+.bullets li {
   list-style-type: circle;
 }
 
